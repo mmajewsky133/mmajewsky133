@@ -1,16 +1,27 @@
-### Hi there 👋
+Hi, i'm Martin Majewsky
+=================================
 
-<!--
-**mmajewsky133/mmajewsky133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Backend and mobile developer student with a keen interest in UX/UI design for the betterment of well-established systems. I'm especially interested in my own growth as a programmer and the improvement of my abilities as a professional. I am open to any opportunity to lead any project to ensure the utmost quality.
 
-Here are some ideas to get you started:
+I also like to toy around with mobile app ideas to make efficient things a little more efficient and easy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Languages
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,flutter,react,firebase,mysql" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,androidstudio,figma" />
+</p>
+
+## More Info
+
+* You can contact me through [mmajz133aee@gmail.com](mailto:mmajz133aee@gmail.com) or [linkedIn](linkedin.com/in/martin-majewsky-z/)
+* Currently learning React and working on my personal portfolio!
+
+## (Also) Languages
+* English
+* Spanish
+
+
+
+<a href="http://www.github.com/mmajewsky133"><img src="https://github-readme-stats.vercel.app/api?username=mmajewsky133&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mmajewsky133's GitHub stats" /></a>
+
+<a href="http://www.github.com/mmajewsky133"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmajewsky133&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
