@@ -13,7 +13,7 @@ I also like to toy around with mobile app ideas to make efficient things a littl
 
 ## More Info
 
-* You can contact me through [mmajz133aee@gmail.com](mailto:mmajz133aee@gmail.com) or [linkedIn](linkedin.com/in/martin-majewsky-z/)
+* You can contact me through [mmajz133aee@gmail.com](mailto:mmajz133aee@gmail.com) or [linkedIn](www.linkedin.com/in/martin-majewsky-z/)
 * Currently learning React and working on my personal portfolio!
 
 ## (Also) Languages
