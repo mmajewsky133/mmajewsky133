@@ -7,8 +7,8 @@ I also like to toy around with mobile app ideas to make efficient things a littl
 
 ## Skills and Languages
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,kotlin,flutter,html,css,js,ts" /> <br/>
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,react,express,angular,sass,tailwind,mysql,mongo,firebase" /> <br/>
+    <img src="https://skillicons.dev/icons?i=cs,java,kotlin,flutter,html,css,js,ts,php" /> <br/>
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,react,express,angular,laravel,sass,tailwind,mysql,mongo,firebase" /> <br/>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,figma" />
 </p>
 
